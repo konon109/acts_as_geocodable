@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
