@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Improve Coral Edge TPU guide (#8160)
