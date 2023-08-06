@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update docs building code (#7601)
