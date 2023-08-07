@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
