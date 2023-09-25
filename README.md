@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
