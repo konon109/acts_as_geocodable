@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
