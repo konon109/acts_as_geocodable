@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Allow Annotator PIL.Image inputs (#8397)
