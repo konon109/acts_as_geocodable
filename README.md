@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
