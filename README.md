@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Compare plt.get_backend() in lowercase (#8409)
