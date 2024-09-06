@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Fix cmake requirements for ARM64 (#8589)
