@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Python refactorings and simplifications (#7549)
